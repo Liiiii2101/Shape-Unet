@@ -7,3 +7,7 @@ save images and labels as npy file
 to launch the task, type:
 
 python run.py images'_path labels'_path
+
+And this is a patch-based method. The size of images is 64*64.
+
+
