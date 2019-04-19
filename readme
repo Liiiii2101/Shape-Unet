@@ -1,1 +1,9 @@
 This model is based on the paper below
+http://gregslabaugh.net/publications/ArifVSNetMICCAI2018.pdf
+
+Use: 
+save images and labels as npy file 
+
+to launch the task, type:
+
+python run.py images'_path labels'_path
