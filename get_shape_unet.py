@@ -1,3 +1,4 @@
+import numpy as np
 import tensorflow as tf
 from keras.models import Model, load_model
 import keras.backend as K
